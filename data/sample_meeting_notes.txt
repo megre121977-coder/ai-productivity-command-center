@@ -1,0 +1,7 @@
+Decision: Move forward with a small pilot using synthetic data.
+Please prepare a one-page summary for the next review.
+Risk: Input quality may be inconsistent across sources.
+Action: Confirm owners for each workflow area.
+Decision: Keep human review for final recommendations.
+Issue: The current process has too many manual handoffs.
+Follow up with the design owner on dashboard layout.

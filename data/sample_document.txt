@@ -1,0 +1,6 @@
+The project focuses on reducing manual work for knowledge workers.
+Action: Define the first pilot workflow and expected output.
+Risk: The scope may become too broad if the first version includes too many features.
+Action: Use synthetic data for early testing.
+Decision: Start with prioritization, summaries and executive briefs.
+Risk: Users may not trust recommendations if scoring logic is unclear.
