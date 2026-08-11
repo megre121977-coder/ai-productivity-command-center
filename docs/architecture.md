@@ -1,19 +1,23 @@
 # Architecture
 
 ```text
-Synthetic CSV / TXT inputs
-        |
-        v
-Data loader
-        |
-        v
-Analysis services
-        |
-        v
-FastAPI backend
-        |
-        v
-React dashboard or external automation tools
+          Inbox
+            |
+            v
+
+      AI Analysis Layer
+   /        |         \
+Tasks    Meetings   Documents
+
+            |
+            v
+
+      Priority Engine
+
+            |
+            v
+
+      Executive Briefs
 ```
 
 ## Design principles
