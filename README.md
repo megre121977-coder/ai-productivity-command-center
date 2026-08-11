@@ -10,7 +10,7 @@ Many professionals work across messages, notes, tasks, documents and meetings. T
 
 AI Productivity Command Center demonstrates how an intelligent assistant could support this workflow without using confidential or company-specific data.
 
-![/dashboard-overview.png
+/dashboard-overview.png
 
 ## Core capabilities
 
